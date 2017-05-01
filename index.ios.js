@@ -1,0 +1,1 @@
+import AwesomeProject from './src/Fitapp.js';
